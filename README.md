@@ -58,7 +58,7 @@ Implementation of machine learning algorithms using object-oriented programming 
 - **Tech Stack:** Java
 - **Algorithms:** K-Nearest Neighbors (KNN), Linear Regression
 - **Focus:** Design patterns, OOP architecture
-- 🔗 [View Repository]([#](https://github.com/iamsamahaziz/OOP_ML_PROJECT))
+- 🔗 [View Repository](https://github.com/iamsamahaziz/OOP_ML_PROJECT)
 
 ## 💼 What I'm Currently Working On
 
