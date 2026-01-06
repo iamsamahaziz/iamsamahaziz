@@ -35,11 +35,14 @@ I'm a **Computer Engineering student** at FST Mohammedia, Morocco, passionate ab
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Samah's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsamahaziz&show_icons=true&theme=radical)
+🔥 **Active Contributor** | 💻 **Multiple Projects** | 🌱 **Continuous Learner**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsamahaziz&layout=compact&theme=radical)
+- 🚀 Building educational applications and productivity tools
+- 📚 Exploring AI/ML, web development, and data structures
+- 💡 Contributing to open-source learning projects
+- 🎯 Focused on clean code and best practices
 
 ## 🔥 Featured Projects
 
