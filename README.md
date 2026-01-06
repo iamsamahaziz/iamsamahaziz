@@ -51,14 +51,14 @@ A comprehensive educational application for analyzing and visualizing data struc
 - **Tech Stack:** C/GTK+ 3.24, Python/PyQt6, Cairo, Matplotlib, NetworkX
 - **Features:** 4 sorting algorithms, linked lists, trees (BST, AVL, N-ary), graphs, shortest path algorithms
 - **Lines of Code:** ~8,000 lines C + Python version
-- 🔗 [View Repository](#)
+- 🔗 [View Repository](https://github.com/iamsamahaziz/gui_project)
 
 ### 🤖 Machine Learning - OOP Project
 Implementation of machine learning algorithms using object-oriented programming principles.
 - **Tech Stack:** Java
 - **Algorithms:** K-Nearest Neighbors (KNN), Linear Regression
 - **Focus:** Design patterns, OOP architecture
-- 🔗 [View Repository](#)
+- 🔗 [View Repository]([#](https://github.com/iamsamahaziz/OOP_ML_PROJECT))
 
 ## 💼 What I'm Currently Working On
 
